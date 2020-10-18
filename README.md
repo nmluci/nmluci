@@ -1,8 +1,8 @@
-# nmluci
+# nmluci (Lynne Fuyuna)
 I;m a CS Student on **University of Neptune**.
 
 # Main Interest
-- Artificial Intellegence
+- Artificial Intelligence
 - Data Science
 - Autonomous System
 
