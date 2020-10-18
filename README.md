@@ -1,5 +1,5 @@
 # nmluci (Lynne Fuyuna)
-I;m a CS Student in **Departement of Antique Technology of Mars Multiversity for Neptunian**.
+I;m a CS Student in **Departement of Antique Technology of Mars Multiversity for Earthling**.
 
 # Main Interest
 - Artificial Intelligence
