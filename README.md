@@ -1,16 +1,27 @@
-### Hi there 👋
+# nmluci
+I;m a CS Student on **University of Neptune**.
 
-<!--
-**nmluci/nmluci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Main Interest
+- Artificial Intellegence
+- Data Science
+- Autonomous System
 
-Here are some ideas to get you started:
+# Social Media
+[Twitter](twitter.com/__fuyuna)
+[Instagram](instagram.com/nm.lucius)
+[Reddit](reddit.com/u/nmrika)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Project
+## Currently Maintained
+1. Guild Managing Discord Bot
+2. Multi-Functional Discord Bot
+
+# Languages Used
+1. Python
+2. Node.js
+3. C++
+
+# Languages Currently Learn
+1. C
+2. Kotlin
+3. Flutter/Dart
