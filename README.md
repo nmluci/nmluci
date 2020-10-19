@@ -16,7 +16,7 @@ I;m a CS Student in **Departement of Antique Technology of Mars Multiversity for
 2. Node.js
 3. C++
 
-## Languages Currently Learn
+## Languages Currently Learned
 1. C
 2. Kotlin
 3. Flutter/Dart
