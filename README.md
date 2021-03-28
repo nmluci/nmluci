@@ -16,7 +16,7 @@ I;m a CS Student in **Department of Antique Technology of Mars Multiversity for 
 2. Node.js
 3. C/C++
 
-＃ 猫が好き
+# 猫が好き
 
 # Social Media
 [Twitter](twitter.com/__fuyuna) [Instagram](instagram.com/nm.lucius) [Reddit](reddit.com/u/nmrika)
