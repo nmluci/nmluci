@@ -3,7 +3,7 @@ I;m a CS Student in **Department of Antique Technology of Mars Multiversity for 
 
 # Main Interest
 - Artificial Intelligence
-- Data Science
+- Digital Security
 - Autonomous System
 
 # Project
@@ -14,12 +14,9 @@ I;m a CS Student in **Department of Antique Technology of Mars Multiversity for 
 ## Languages Used
 1. Python
 2. Node.js
-3. C++
+3. C/C++
 
-## Languages Currently Learned
-1. C
-2. Kotlin
-3. Flutter/Dart
+＃ 猫が好き
 
 # Social Media
 [Twitter](twitter.com/__fuyuna) [Instagram](instagram.com/nm.lucius) [Reddit](reddit.com/u/nmrika)
