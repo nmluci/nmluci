@@ -19,4 +19,4 @@ I;m a CS Student in **Department of Antique Technology of Mars Multiversity for 
 # 猫が好き
 
 # Social Media
-[Twitter](twitter.com/__fuyuna) [Instagram](instagram.com/nm.lucius) [Reddit](reddit.com/u/nmrika)
+[Twitter](twitter.com/__fuyuna) [Reddit](reddit.com/u/nmrika)
