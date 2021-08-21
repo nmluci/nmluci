@@ -1,15 +1,15 @@
 # nmluci (Lynne Fuyuna)
-I;m a CS Student in **Department of Antique Technology of Mars Multiversity for Earthling**.
+I'm currently a CS Student**.
 
 # Main Interest
-- Artificial Intelligence
+- Networking
 - Digital Security
 - Autonomous System
 
 # Project
 ## Currently Maintained
 1. Guild Managing Discord Bot
-2. Multi-Functional Discord Bot
+2. Multi-Purpose Program
 
 ## Languages Used
 1. Python
