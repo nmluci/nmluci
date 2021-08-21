@@ -1,5 +1,5 @@
 # nmluci (Lynne Fuyuna)
-I'm currently a CS Student**.
+I'm currently a CS Student.
 
 # Main Interest
 - Networking
