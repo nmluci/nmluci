@@ -1,5 +1,5 @@
 # Albertus Ivan (nmluci/Fuyuna)
-(phr) a CS Student.
+(name) a CS Student.
 
 # Main Interest
 - Networking
