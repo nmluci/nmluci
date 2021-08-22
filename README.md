@@ -1,5 +1,5 @@
-# nmluci (Lynne Fuyuna)
-I'm currently a CS Student.
+# Albertus Ivan (nmluci/Fuyuna)
+(phr) a CS Student.
 
 # Main Interest
 - Networking
