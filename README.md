@@ -2,8 +2,9 @@
 (name) a CS Student.
 
 # Main Interest
-- Networking
-- Digital Security
+- Backend Engineering
+- Database Management
+- Cryptography
 - Autonomous System
 
 # Project
@@ -13,8 +14,9 @@
 
 ## Languages Used
 1. Python
-2. Node.js
-3. C/C++
+2. Golang
+3. Node.js
+4. C/C++
 
 # 猫が好き
 
