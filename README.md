@@ -1,4 +1,5 @@
-# Albertus Ivan (nmluci/Fuyuna, alias. Lynne Fuyuna)
+# Albertus Ivan (nmluci/Fuyuna)
+(alias) Lynne Fuyuna
 (name) a CS Student.
 
 # Main Interest
