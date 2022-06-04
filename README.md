@@ -1,5 +1,5 @@
 # Albertus Ivan (nmluci/Fuyuna)
-(n) A backend engineer 
+(n) A humanoid-type organic autonomous bot coded in amino acid
 
 ## Languages Use
 1. Golang
