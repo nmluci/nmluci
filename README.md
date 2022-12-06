@@ -3,9 +3,10 @@
 
 ## Languages Use
 1. Golang
-2. Node.js
-3. Python
-4. C/C++
+2. Rust
+3. Node.js
+4. Python
+5. C/C++
 
 # Social Media
 [Twitter](twitter.com/__fuyuna)
