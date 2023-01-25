@@ -1,7 +1,7 @@
 # Albertus Ivan
 ### CS Student | Backend Developer
 
-⤷ (alias) autonomous humanoid-type program coded in Amino Acid Lang, who love automating boring stuff.
+⤷ autonomous humanoid-type program coded in Amino Acid Lang, who love automating boring stuff.
 
 Currently developing their own microservices to digitalized and automate part of life management.
 
